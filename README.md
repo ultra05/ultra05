@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Alex Chen
+# Hi there 👋 I'm Alex Chen :shipit:
 ## About me
 - 💻I’m currently learning C++
 - 📫 How to reach me: aca343@sfu.ca
