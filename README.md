@@ -6,5 +6,5 @@
 - 🤖 I competed in the VEX Robotics Competition at an international level
   - Team 1010 (Ten Ton Robotics) Alumni
 ### Hobbies and Fun Facts!
-- I like gaming or ice skating in my spare time
-- my favourite food is ramen
+- 🎮 I like gaming or ice skating in my spare time
+- 🍜 My favourite food is ramen
